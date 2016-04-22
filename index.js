@@ -16,3 +16,6 @@ luigi.print()
 
 var link = new Person('Link', 18)
 link.print()
+
+var mario = new Person('Mario', 37)
+mario.print()
